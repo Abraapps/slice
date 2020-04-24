@@ -1,18 +1,17 @@
-# Welcome to Tap&Move: Get Puzzled!
+# Welcome to Slicey Cube Puzzle!
 
-Enjoy unique experience with Tap&Move: Get Puzzled Game. 
+Discover unique pictures with Slicey Cube Puzzle. 
 
 How to play:
  
-* Tap and Move objects to progress within the level
-* Use all elements to finish level 
-* Discover all rules and test yourself!
-* Enjoy increasing difficulty
-* Thousands of levels in endless mode.
+* Select one of three difficulty modes: Easy, Medium or Hard
+* Slide columns and rows to finish the picture 
+* Use hints to deal with most tricky puzzles!
+* Enjoy picturesque images
 
 Contact us at abra.games.studio[at]gmail.com
 
-<a href="https://itunes.apple.com/us/app/id1503369220">
+<a href="https://itunes.apple.com/us/app/id1502566749">
 <img class="app-store-badge" src="./app-store-icon.png">
 </a>
 
